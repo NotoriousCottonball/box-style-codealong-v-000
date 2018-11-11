@@ -259,8 +259,8 @@ header {
   rgba(43, 43, 43, 1) 87%,
   rgba(28, 28, 28, 1) 91%,
   rgba(0, 0, 0, 1) 100%
-); /* FF3.6+ */
-background: -webkit-gradient(
+  ); /* FF3.6+ */
+  background: -webkit-gradient(
   linear,
   left top,
   left bottom,
@@ -271,8 +271,8 @@ background: -webkit-gradient(
   color-stop(87%, rgba(43, 43, 43, 1)),
   color-stop(91%, rgba(28, 28, 28, 1)),
   color-stop(100%, rgba(0, 0, 0, 1))
-); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(
+  ); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(
   top,
   rgba(0, 0, 0, 1) 0%,
   rgba(71, 71, 71, 1) 28%,
@@ -281,8 +281,8 @@ background: -webkit-linear-gradient(
   rgba(43, 43, 43, 1) 87%,
   rgba(28, 28, 28, 1) 91%,
   rgba(0, 0, 0, 1) 100%
-); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(
+  ); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(
   top,
   rgba(0, 0, 0, 1) 0%,
   rgba(71, 71, 71, 1) 28%,
@@ -291,8 +291,8 @@ background: -o-linear-gradient(
   rgba(43, 43, 43, 1) 87%,
   rgba(28, 28, 28, 1) 91%,
   rgba(0, 0, 0, 1) 100%
-); /* Opera 11.10+ */
-background: -ms-linear-gradient(
+  ); /* Opera 11.10+ */
+  background: -ms-linear-gradient(
   top,
   rgba(0, 0, 0, 1) 0%,
   rgba(71, 71, 71, 1) 28%,
@@ -301,8 +301,8 @@ background: -ms-linear-gradient(
   rgba(43, 43, 43, 1) 87%,
   rgba(28, 28, 28, 1) 91%,
   rgba(0, 0, 0, 1) 100%
-); /* IE10+ */
-background: linear-gradient(
+  ); /* IE10+ */
+  background: linear-gradient(
   to bottom,
   rgba(0, 0, 0, 1) 0%,
   rgba(71, 71, 71, 1) 28%,
@@ -311,7 +311,7 @@ background: linear-gradient(
   rgba(43, 43, 43, 1) 87%,
   rgba(28, 28, 28, 1) 91%,
   rgba(0, 0, 0, 1) 100%
-); /* W3C */
+  ); /* W3C */
 }
 
 /*////////// LOGO //////////*/
