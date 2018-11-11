@@ -245,7 +245,7 @@ header {
   font: 1em "Trebuchet MS", Arial, sans-serif;
 } 
 
-selected {
+.selected {
   background: #333;
   color: white;
 }
