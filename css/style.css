@@ -252,7 +252,7 @@ header {
 
 #navbar nav a:hover {
   /* NAVBAR-HOVER */
- 
+  color: white;
   background: rgb(0, 0, 0); /* Old browsers */
   background: -moz-linear-gradient(
     top,
