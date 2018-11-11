@@ -250,7 +250,7 @@ header {
 #navbar nav a:hover {
   color: white;
   background: rgb(0, 0, 0); /* Old browsers */
-background: -moz-linear-gradient(
+  background: -moz-linear-gradient(
   top,
   rgba(0, 0, 0, 1) 0%,
   rgba(71, 71, 71, 1) 28%,
