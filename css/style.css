@@ -220,6 +220,7 @@ header {
 /*////////// NAVBAR //////////*/
 #navbar {
   position: fixed;
+  top: 0 ;
 }
 
 
